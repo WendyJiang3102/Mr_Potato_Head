@@ -52,8 +52,9 @@ h1 {
 
 
 /* Insert CSS for glasses below this line*/
-
-
+#eyebrows_image{
+  top:70px; left:111px;
+}
 
 
 /* Insert CSS for hat below this line*/
